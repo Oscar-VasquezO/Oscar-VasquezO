@@ -1,4 +1,4 @@
-# Hola, soy Oscar Vásquez 👋
+# Hola, soy Oscar Vasquez 👋
 
 Estudiante de Ingeniería de Sistemas en UNIMINUTO (Colombia), enfocado en bases de datos, análisis de datos y automatización de procesos con IA.
 
